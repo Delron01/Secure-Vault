@@ -1,0 +1,6 @@
+def generate_pass():
+    ...
+
+def validate_pass():
+    ...
+    
